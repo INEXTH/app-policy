@@ -1,0 +1,28 @@
+# Ignore Next.js build output
+/.next/
+/out/
+
+# Ignore Node.js dependencies
+/node_modules/
+
+# Ignore development server logs
+/.npm/
+/.next/
+/.vercel/
+
+# Ignore environment files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ignore npm debugging logs
+npm-debug.log*
